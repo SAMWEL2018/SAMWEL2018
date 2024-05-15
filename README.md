@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @SAMWEL2018
-- IT SUPPORT proficiency essentials
-- System and network administration
-- Backend programming
+- JAVA Backend programming
+- Mobile developer (Android and Flutter)
 - 👀 I’m interested in DevOps AND CLOUD Engineering using its orchestration tools
-- I'm interested in python and java programming
+- I'm interested in  java programming
 - 🌱 I’m currently learning Kubernets and CI/CD implementation, Pipeline and Jenkins
 - 📫 You can reach me on samwelwafula2018@gmail.com
 
